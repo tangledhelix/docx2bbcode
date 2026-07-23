@@ -12,6 +12,10 @@ Converts a `.docx` file to phpBB BBCode markup, preserving:
 
     python3 docx2bbcode.py input.docx > output.bbcode.txt
 
+# Requirements
+
+Needs `lxml` installed.
+
 # Disclaimer
 
 Claude wrote this; don't ask me how it works.
